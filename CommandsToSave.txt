@@ -1,0 +1,19 @@
+
+fouadaz@fouadazs-mbp fetchpulldemo % history                        
+  719  git fetch origin main
+  720  git status
+  721  git branch
+  722  git branch -r
+  723  git switch origin/main
+  724  git switch origin/main --detach
+  725  git status
+  726  git status
+  727  git fetch origin main
+  728  git status
+  729  git switch origin main
+  730  git switch origin/main --detach
+  731  git switch origin main
+  732  git switch main
+  733  git merge origin/main
+  734  git history
+fouadaz@fouadazs-mbp fetchpulldemo % 
