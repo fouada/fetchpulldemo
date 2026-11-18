@@ -1,5 +1,9 @@
-
-fouadaz@fouadazs-mbp fetchpulldemo % history                        
+  713  git clone https://github.com/fouada/fetchpulldemo.git
+  714  ls
+  715  cd fetchpulldemo
+  716  ls
+  717  git status
+  718  git remote
   719  git fetch origin main
   720  git status
   721  git branch
@@ -16,4 +20,38 @@ fouadaz@fouadazs-mbp fetchpulldemo % history
   732  git switch main
   733  git merge origin/main
   734  git history
-fouadaz@fouadazs-mbp fetchpulldemo % 
+  735  history
+  736  git add .
+  737  git add .
+  738  git commit -m "update commands i used"
+  739  git push
+  740  git pull origin main
+  741  git status
+  742  touch index.js
+  743  git pull origin main
+  744  git status
+  745  git add index.js
+  746  git pull origin main
+  747  git add index.js
+  748  git commit -m "Added index.js\n
+  749  git commit -m "Added index.js\n\n\n\nsds\ndsad
+  750  git add index.js
+  751  git commit -m "Added index.jsgit add index.js \n
+  752  git commit -m "Added index.js"
+  753  git pull origin main
+  754  git config pull.rebase false
+  755  git pull
+  756  git add index.js
+  757  git add index.js
+  758  git commit -m "Added logic"
+  759  git pull origin main
+  760  git merge origin main
+  761  git merge --abort
+  762  git merge origin/main
+  763  git status
+  764  git commit -m "Merged github repo with local"
+  765  git add .
+  766  git commit -m "Merged github repo with local"
+  767  git push origin main
+  768  history
+fouadaz@fouadazs-mbp fetchpulldemo %  
